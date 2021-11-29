@@ -1,0 +1,10 @@
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\bin\Debug\automata_One_dimensional.exe.config
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\bin\Debug\automata_One_dimensional.exe
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\bin\Debug\automata_One_dimensional.pdb
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.csprojAssemblyReference.cache
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.Form1.resources
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.Properties.Resources.resources
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.csproj.GenerateResource.cache
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.csproj.CoreCompileInputs.cache
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.exe
+C:\Users\Joanna.Cepuch\Downloads\zca1-Joasia662-master\automata_One_dimensional\obj\Debug\automata_One_dimensional.pdb

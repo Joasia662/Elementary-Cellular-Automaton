@@ -5,6 +5,10 @@ Automat komórkowy – system składający się z pojedynczych komórek, sąsiad
 
 ![Automaty](https://user-images.githubusercontent.com/60195641/143902757-8c01f8cb-95c6-4b6c-90c0-9ce52b46a174.png)
 
-<b>Wyniki symulacji:<b>
+<b>Zasady na podstawie których wykonano symulacje:</b>
 
-  ![Automaty](https://user-images.githubusercontent.com/60195641/143904606-2ebace67-bc21-41b8-977d-8687d9226021.png)
+![60](https://user-images.githubusercontent.com/60195641/144151541-b60f3d56-5f4e-449c-925b-97b44ecccc10.png)
+
+<b>Wyniki symulacji:</b>
+
+![Automaty](https://user-images.githubusercontent.com/60195641/143904606-2ebace67-bc21-41b8-977d-8687d9226021.png)
